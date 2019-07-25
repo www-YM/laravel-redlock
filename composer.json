@@ -1,5 +1,5 @@
 {
-  "name": "www-YM/laravel5.8-redlock",
+  "name": "www-ym/laravel5.8-redlock",
   "description": "Redis distributed locks for laravel",
   "license": "MIT",
   "keywords": ["redlock", "laravel redis lock", "redis lock"],
