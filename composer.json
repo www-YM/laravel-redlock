@@ -5,16 +5,8 @@
   "keywords": ["redlock", "laravel redis lock", "redis lock"],
   "authors": [
     {
-      "name": "LibiChai",
-      "email": "chaiguoxing@qq.com"
-    },
-    {
-      "name": "Daniel Kuck-Alvarez",
-      "email": "dankuck@gmail.com"
-    },
-    {
-      "name": "Potsky",
-      "email": "potsky@me.com"
+      "name": "Ivan",
+      "email": "egryiming@gmail.com"
     }
   ],
   "require": {
